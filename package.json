@@ -1,0 +1,12 @@
+{
+  "name": "requirejs-bundle-examples",
+  "description": "Typical Requirejs Bundle Examples",
+  "devDependencies": {
+    "grunt-contrib-jshint": "~0.6.4",
+    "grunt": "~0.4.1",
+    "grunt-requirejs": "git://github.com/cloudchen/grunt-requirejs"
+  },
+  "scripts": {
+    "postinstall": "bower install"
+  }
+}

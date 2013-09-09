@@ -1,0 +1,35 @@
+{
+    "camelcase": true,
+    "curly": true,
+    "eqeqeq": true,
+    "es3": false,
+    "forin": false,
+    "immed": true,
+    "indent": false,
+    "latedef": "nofunc",
+    "newcap": true,
+    "noarg": true,
+    "noempty": true,
+    "nonew": true,
+    "plusplus": false,
+    "quotmark": true,
+    "undef": true,
+    "unused": "vars",
+    "strict": true,
+    "trailing": true,
+
+    "boss": false,
+    "debug": false,
+    "smarttabs": false,
+    "eqnull": true,
+    "laxcomma": true,
+
+    "browser": true,
+    "devel": true,
+    "jquery": true,
+
+    "globals": {
+        "define": false
+       ,"require": false
+    }
+}

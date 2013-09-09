@@ -1,0 +1,2 @@
+<h1>Typical Requirejs Project</h1>
+<h2>World Module Content</h2>
