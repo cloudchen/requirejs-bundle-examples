@@ -3,8 +3,8 @@ Requirejs Bundle Types
 > This example project is inspired by [a question from StackOverflow](http://stackoverflow.com/questions/17035609/most-efficient-multipage-requirejs-and-almond-setup)
 
 ## 3 ways to optimize requirejs bundle files
-> 1. Optimize a single JS file for the whole site (w/o Almond)
-2. Optimize a single JS file for each page (w/o Almond)
+> 1. Optimize a single JS file for the whole site (w/ or w/o Almond)
+2. Optimize a single JS file for each page (w/ or w/o Almond)
 3. Optimize one JS file for common modules, and then another for each specific page. (Almond doesn't fit in with this way)
 
 ## Naming them for easier understanding
