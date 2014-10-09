@@ -167,7 +167,7 @@ map: {
 },
 ```
 
-## Write `rerquire.config({})` once, use everywhere
+## Write `require.config({})` once, use everywhere
 
 - Development and build environment share same configuration
 - Other environments, for example, test environment can use it as well
